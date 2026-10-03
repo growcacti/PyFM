@@ -4,7 +4,7 @@ A Python desktop workspace for browsing files, housekeeping, batch renaming, and
 
 ## Start the app
 
-Save `JH_File_Manager.py` and this README in the same folder.
+
 
 Linux:
 
