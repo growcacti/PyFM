@@ -120,6 +120,6 @@ Settings are stored in `.jh_file_manager/settings.json` beneath your home folder
 - **Slow scans:** recursive size calculations and hashing large duplicates can take time, especially over Samba. Some inherited scans run in the foreground.
 - **Large controls:** lower the text size with A− or maximize the window.
 
-## Validation of this appearance update
 
-The updated script passed Python syntax compilation. A graphical launch could not be verified in the editing environment; check the appearance on your Windows or Linux desktop.
+
+The script passed Python syntax compilation. A graphical launch could not be verified in the editing environment; please check the appearance on your Windows or Linux desktop.
